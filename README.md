@@ -26,6 +26,14 @@ Here are some ideas to get you started:
   </a>
 </div><div  align="center"><img src="https://komarev.com/ghpvc/?username=itsUjjwal17&style=flat-square&color=blue" alt=""/></div>
 
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsUjjwal17&column=7"/>
+  </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
