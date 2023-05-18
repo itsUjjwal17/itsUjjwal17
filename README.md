@@ -40,28 +40,50 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ujjwal-krishna-673996188/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=F05032&labelColor=ffffff" alt="sahil lather" height="60" width="180" /></a>
+</p><br>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<p align="left">
+ 
+![C](https://img.shields.io/badge/-c-000000?style=flat&logo=c&logoColor=F05032&labelColor=ffffff)
+![Cpp](https://img.shields.io/badge/-C++-000000?style=flat&logo=cpp&logoColor=F05032&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
+![Java14](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F05032&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+ 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=F05032&labelColor=ffffff)
+![Scikitlearn](https://img.shields.io/badge/-Scikit_learn-000000?style=flat&logo=scikitlearn&logoColor=F05032&labelColor=ffffff)
+![MachineLearning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=machinelearning&logoColor=F05032&labelColor=ffffff)
+![Sqlite](https://img.shields.io/badge/-Sqlite-000000?style=flat&logo=sqlite&logoColor=F05032&labelColor=ffffff)
+![OpenCv](https://img.shields.io/badge/-OpenCv-000000?style=flat&logo=opencv&logoColor=F05032&labelColor=ffffff)
+
+ 
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
+ 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle&logoColor=F05032&labelColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
   
-</div>
+</p>
 
 ---
 
